@@ -1,6 +1,5 @@
 <img src="./images/logo.png" alt="TSWeChat" title="TSWeChat"/>
 
-
 <a href="https://github.com/hilen/TSWeChat"><img src="https://img.shields.io/travis/rust-lang/rust.svg"></a>
 <a href="https://swift.org/"><img src="https://img.shields.io/badge/Swift-compatible-orange.svg"></a>
 <img src="https://img.shields.io/badge/platform-iOS%208.0%2B-ff69b4.svg">
